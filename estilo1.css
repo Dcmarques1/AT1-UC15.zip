@@ -1,0 +1,27 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+footer{
+    background-color: black;
+    color: rgb(202, 202, 202);
+}
+nav a{
+    color: gray;
+}
+nav li{
+    list-style-type: none;
+}
+
+.selectors{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+}
+
+.tit{
+margin-left: 40px;
+}
